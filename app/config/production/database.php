@@ -10,7 +10,7 @@ return array(
 			'database'  => 'foobooks',
 			'username'  => 'root',
 			//'password'  => 'length-area-wall8@',
-			'password'  => 'PA0wefBkZtT',
+			'password'  => 'PA0wefBkZt',
 		),
 
 	),
